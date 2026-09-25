@@ -22,14 +22,11 @@ If you have something to build, [say hi](mailto:tomas@sorejs.cz).
 - **[tomaass-skills](https://github.com/tomaass/tomaass-skills)**: the Claude Code skills and hooks I use every day.
   Hand a plan off to a cloud session, run a bounded review → fix loop on a PR,
   keep agents in git worktrees. Install only the one you need.
-- **[platebnik](https://github.com/tomaass/platebnik)**: a shared price list for home parties.
-  Guests tap what they had and pay the host through a Czech QR payment. Next.js, Drizzle, Auth.js.
-  Built in 48 hours.
 
 ### Live
 
 - [hyposka.cz](https://hyposka.cz): mortgage calculator and lead funnel (Next.js, Postgres)
-- [platebnik.cz](https://platebnik.cz): the QR payment board above
+- [platebnik.cz](https://platebnik.cz): a shared price list for home parties, where guests pay the host by QR code, built in 48 hours ([source](https://github.com/tomaass/platebnik), to read, not to reuse)
 - [kytkyzraje.cz](https://kytkyzraje.cz): our family flower farm's website (Astro)
 
 ### Off the keyboard
